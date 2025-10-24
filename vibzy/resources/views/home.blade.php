@@ -24,15 +24,15 @@
         <h1>The easiest way to stream, record & grow</h1>
         <p class="lead">All the tools creators need to go live: alerts, overlays, multistream and more — built for Twitch, YouTube and socials.</p>
         <div class="cta-row">
-          <a class="btn" href="#get-started">Get started</a>
+          <a class="btn" id="get-started" href="#get-started">Get started</a>
           <a class="btn btn--ghost" href="#learn-more">See features</a>
         </div>
       </div>
 
       <div class="hero-figure" aria-hidden="true">
-        <div style="text-align:center">
+        <!-- <div style="text-align:center">
           <strong>Hero visual</strong>
-        </div>
+        </div> -->
       </div>
     </section>
 
@@ -40,28 +40,28 @@
     <section id="features" class="features" aria-label="Features">
       <div class="feature-grid">
         <div class="feature">
-          <h3>Alerts & Widgets</h3>
-          <p class="muted">Customizable overlays and real-time notifications for your stream.</p>
+          <h3>Sports</h3>
+          <p class="muted">Watch live cricket, football, kickboxing and other sports live.</p>
         </div>
         <div class="feature">
-          <h3>Multistream</h3>
-          <p class="muted">Broadcast to multiple platforms simultaneously.</p>
+          <h3>Drama</h3>
+          <p class="muted">Watch trending dramas, intense thrillers, and heartfelt series from creators who know how to keep you on the edge of your seat..</p>
         </div>
         <div class="feature">
-          <h3>Editor & Clips</h3>
-          <p class="muted">Create highlight clips and edit your content fast.</p>
+          <h3>Movies</h3>
+          <p class="muted">Discover blockbuster hits, indie gems, and classic favorites in HD, anytime, anywhere.</p>
         </div>
         <div class="feature">
-          <h3>Sponsorships</h3>
-          <p class="muted">Monetize your content with brand deals.</p>
+          <h3>Viral content</h3>
+          <p class="muted">Stay up-to-date about the latest trends.</p>
         </div>
         <div class="feature">
-          <h3>Payments & Merch</h3>
-          <p class="muted">Accept donations and sell merch easily.</p>
+          <h3>Comedy</h3>
+          <p class="muted">Watch hilarious sitcoms in HD.</p>
         </div>
         <div class="feature">
-          <h3>Analytics</h3>
-          <p class="muted">Understand your audience with simple reporting.</p>
+          <h3>News</h3>
+          <p class="muted">Get real-time updates on sports, entertainment, and world events trusted coverage from VIBZY.</p>
         </div>
       </div>
     </section>
@@ -70,11 +70,11 @@
     <section class="cta-bar" aria-label="Call to action">
       <div class="container cta-inner">
         <div>
-          <strong>Ready to go live?</strong>
-          <div class="muted">Download the desktop app or try it in-browser.</div>
+          <strong style="color:white">Ready to go live?</strong>
+          <div style="color:#ed918c" class="muted">Download the desktop app or try it in-browser.</div>
         </div>
         <div style="display:flex;gap:12px;">
-          <a class="btn" href="#download">Download</a>
+          <a class="btn" style="background:#522424ff;" href="#download">Download</a>
           <a class="btn btn--ghost" href="#ultra">Try Ultra</a>
         </div>
       </div>
@@ -82,7 +82,7 @@
 
   </main>
 
-  <!-- Footer -->
+  <!-- Footer
   <footer class="site-footer" role="contentinfo">
     <div class="container">
       <div class="footer-grid">
@@ -101,20 +101,9 @@
         </div>
       </div>
     </div>
-  </footer>
+  </footer> -->
 
-  <!-- Cookie notice -->
-  <div class="cookie-notice" role="dialog" aria-live="polite" aria-label="Cookie notice">
-    <div style="flex:1;min-width:0">
-      <div><strong>We use cookies</strong></div>
-      <div class="muted" style="font-size:13px">To improve your experience. Learn more in our privacy policy.</div>
-    </div>
-    <div style="display:flex;gap:8px;align-items:center">
-      <a class="btn btn--ghost" href="#settings">Manage</a>
-      <a class="btn" href="#accept">Accept</a>
-    </div>
-  </div>
-
+  
 </body>
 </html>
 

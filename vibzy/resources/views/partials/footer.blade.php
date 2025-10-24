@@ -7,8 +7,8 @@
       </div>
       <div class="footer-col">
         <nav aria-label="footer links">
-          <ul style="display:flex;gap:12px;list-style:none">
-            <li><a class="muted" href="#privacy">Privacy</a></li>
+          <ul style="display:flex; gap:22px; list-style:none; margin-top:5px">
+            <li><a style="margin-left:750px" class="muted" href="#privacy">Privacy</a></li>
             <li><a class="muted" href="#terms">Terms</a></li>
             <li><a class="muted" href="#support">Support</a></li>
           </ul>

@@ -4,10 +4,10 @@
 
 @section('content')
 <!-- Hero -->
-<section class="pricing-hero py-5 bg-light text-center">
+<section id="gradient4" class="pricing-hero py-5 bg-light text-center">
   <div class="container">
     <h1 class="display-5 fw-bold mb-3">Choose Your Plan</h1>
-    <p class="lead text-muted mb-4">Simple pricing for creators of all levels — start free or unlock premium features.</p>
+    <p class="lead mb-4">Simple pricing for creators of all levels — start free or unlock premium features.</p>
   </div>
 </section>
 
