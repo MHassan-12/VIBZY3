@@ -20,13 +20,13 @@
         <div class="card border-0 shadow-sm h-100 text-center">
           <div class="card-body p-4">
             <h3 class="fw-bold mb-3">Free</h3>
-            <p class="text-muted mb-4">Perfect for beginners getting started with streaming.</p>
+            <p class="text-muted mb-4">Perfect for casual users who want to explore popular shows & highlights.</p>
             <h2 class="fw-bold mb-3">$0<span class="fs-5 text-muted">/mo</span></h2>
             <ul class="list-unstyled text-muted mb-4">
-              <li>✅ Basic Overlays</li>
-              <li>✅ 1 Stream Platform</li>
-              <li>❌ No Analytics</li>
-              <li>❌ No Sponsorship Tools</li>
+                <li>✅ Watch highlights & live matches</li>
+                <li>✅ Limited dramas & movies</li>
+                <li>❌ Ads included</li>
+                <li>❌ Standard quality (480p)</li>
             </ul>
             <form action="{{ route('cart.add') }}" method="POST">
               @csrf
@@ -42,13 +42,13 @@
         <div class="card border-0 shadow-sm h-100 text-center">
           <div class="card-body p-4">
             <h3 class="fw-bold mb-3 text-primary">Pro</h3>
-            <p class="text-muted mb-4">Grow faster with premium tools and more integrations.</p>
+            <p class="text-muted mb-4">For binge-watchers who love sports, drama & movies.</p>
             <h2 class="fw-bold mb-3">$15<span class="fs-5 text-muted">/mo</span></h2>
             <ul class="list-unstyled text-muted mb-4">
-              <li>✅ Custom Overlays</li>
-              <li>✅ Multistream (3 platforms)</li>
-              <li>✅ Sponsorship Tools</li>
-              <li>❌ Advanced Analytics</li>
+                <li>✅ Unlimited access to all content</li>
+                <li>✅ Ad-free HD streaming (1080p)</li>
+                <li>✅ Watch on 2 devices</li>
+                <li>❌ No offline mode</li>
             </ul>
             <form action="{{ route('cart.add') }}" method="POST">
               @csrf
@@ -64,13 +64,13 @@
         <div class="card border-0 shadow-sm h-100 text-center border-success">
           <div class="card-body p-4">
             <h3 class="fw-bold mb-3 text-success">Ultra</h3>
-            <p class="text-muted mb-4">The ultimate toolkit for professional streamers.</p>
+            <p class="text-muted mb-4">The ultimate plan for families who want the full cinematic experience.</p>
             <h2 class="fw-bold mb-3">$29<span class="fs-5 text-muted">/mo</span></h2>
             <ul class="list-unstyled text-muted mb-4">
-              <li>✅ All Pro Features</li>
-              <li>✅ Unlimited Platforms</li>
-              <li>✅ Sponsorship Dashboard</li>
-              <li>✅ Deep Analytics</li>
+                <li>✅ Ultra HD 4K streaming</li> 
+                <li>✅ Watch on 4 devices</li>
+                <li>✅ Offline downloads & profiles</li>
+                <li>✅ Exclusive & early access content</li>
             </ul>
             <form action="{{ route('cart.add') }}" method="POST">
               @csrf

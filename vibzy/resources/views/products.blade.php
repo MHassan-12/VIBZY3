@@ -54,11 +54,13 @@
     </div>
 
     <div class="product-card">
-      <div class="product-img"></div>
+      <div class="product-img">
+        <iframe width="360" height="170" src="https://www.youtube.com/embed/KrfG_rbO6WQ?si=oDvCbTRYQ0F603DC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
       <div class="product-body">
-        <h3>Maaz Safder</h3>
-        <p class="muted">One of Pakistans fastest-growing vloggers. His family-friendly videos, travel diaries, and motivational lifestyle content connect with millions of fans.</p>
-        <a href="#" class="btn btn--ghost small">Watch Now</a>
+        <h3>Taimoor Salahuddin</h3>
+        <p class="muted">He is known primarily for his comedic YouTube sketches, short films and vlogs, and is regarded as one of the pioneers of vlogging in Pakistan,</p>
+        <a href="https://www.youtube.com/@mooroosicity" class="btn btn--ghost small">Watch Now</a>
       </div>
     </div>
 

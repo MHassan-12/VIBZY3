@@ -38,32 +38,60 @@
 
     <!-- Features grid -->
     <section id="features" class="features" aria-label="Features">
-      <div class="feature-grid">
-        <div class="feature">
+    <div class="feature-grid">
+      
+      <a href="#" class="feature-card" style="background-image: url('https://cdn-media.theathletic.com/cdn-cgi/image/width=1200,height=675,fit=cover/ThW0ckyZkxCn_Mg75i3Znkzw9_1440x960.jpg');">
+        <div class="overlay"></div>
+        <div class="feature-content">
           <h3>Sports</h3>
-          <p class="muted">Watch live cricket, football, kickboxing and other sports live.</p>
+          <p>Watch live cricket, football, kickboxing and other sports live.</p>
         </div>
-        <div class="feature">
+      </a>
+
+      <a href="#" class="feature-card" style="background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Humsafar.png/270px-Humsafar.png');">
+        <div class="overlay"></div>
+        <div class="feature-content">
           <h3>Drama</h3>
-          <p class="muted">Watch trending dramas, intense thrillers, and heartfelt series from creators who know how to keep you on the edge of your seat..</p>
+          <p>Watch trending dramas, thrillers, and heartfelt series that keep you hooked.</p>
         </div>
-        <div class="feature">
+      </a>
+
+      <a href="#" class="feature-card" style="background-image: url('https://cdn.britannica.com/15/181115-050-13EF0AFB/Matthew-McConaughey-Interstellar-Christopher-Nolan.jpg');">
+        <div class="overlay"></div>
+        <div class="feature-content">
           <h3>Movies</h3>
-          <p class="muted">Discover blockbuster hits, indie gems, and classic favorites in HD, anytime, anywhere.</p>
+          <p>Discover blockbuster hits, indie gems, and timeless classics — anytime, anywhere.</p>
         </div>
-        <div class="feature">
-          <h3>Viral content</h3>
-          <p class="muted">Stay up-to-date about the latest trends.</p>
+      </a>
+
+      <a href="#" class="feature-card" style="background-image: url('https://www.shutterstock.com/image-vector/abstract-premium-posters-holidays-festivals-260nw-2438225951.jpg');">
+        <div class="overlay"></div>
+        <div class="feature-content">
+          <h3>Viral Content</h3>
+          <p>Stay updated with the latest internet sensations and trends.</p>
         </div>
-        <div class="feature">
+      </a>
+
+      <a href="#" class="feature-card" style="background-image: url('https://wallpapers.com/images/hd/modern-family-dvd-poster-cover-qlhbavon5k0kmbhn.jpg');">
+        <div class="overlay"></div>
+        <div class="feature-content">
           <h3>Comedy</h3>
-          <p class="muted">Watch hilarious sitcoms in HD.</p>
+          <p>Laugh out loud with hilarious sitcoms and sketches in HD.</p>
         </div>
-        <div class="feature">
+      </a>
+
+      <a href="#" class="feature-card" style="background-image: url('https://c4.wallpaperflare.com/wallpaper/709/903/649/nasdaq-stock-market-new-york-hd-wallpaper-preview.jpg');">
+        <div class="overlay"></div>
+        <div class="feature-content">
           <h3>News</h3>
-          <p class="muted">Get real-time updates on sports, entertainment, and world events trusted coverage from VIBZY.</p>
+          <p>Get real-time updates on sports, entertainment, and world events.</p>
         </div>
-      </div>
+      </a>
+
+    </div>
+  
+</section>
+
     </section>
 
     <!-- Call to action bar -->
